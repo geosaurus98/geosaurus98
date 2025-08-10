@@ -31,7 +31,10 @@
 ### 🚀 Featured Projects
 - [**RoboCup 2025: Electro-Hunter**](#) – A tracked robot using inductive sensors & electromagnets to detect and collect metal weights.
 - [**Step Counter (ENCE361)**](#) – Embedded firmware for motion tracking using accelerometer filtering and step detection.
-- [**AI War Game**](#) – A terminal-based Python AI tournament game.
+- [**Wordle Solver**](#) – An advanced Python tool for solving Wordle puzzles with multiple modes and benchmarking.
+- [**VHDL Reaction Timer**](#) – FPGA-based reaction time measurement system using push buttons and configurable averaging.
+- [**Battleship-UCFK4**](#) – A Battleship game implemented in C for the UC Funkit (UCFK4) board with LED matrix display and IR communication.
+
 
 ---
 
