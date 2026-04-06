@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [**RoboCup 2025: Electro-Hunter**](#) – A tracked robot using inductive sensors & electromagnets to detect and collect metal weights.
+- [**RoboCup**](#) – A tracked robot using inductive sensors & electromagnets to detect and collect metal weights.
 - [**Step Counter (ENCE361)**](#) – Embedded firmware for motion tracking using accelerometer filtering and step detection.
 - [**Wordle Solver**](#) – An advanced Python tool for solving Wordle puzzles with multiple modes and benchmarking.
 - [**VHDL Reaction Timer**](#) – FPGA-based reaction time measurement system using push buttons and configurable averaging.
