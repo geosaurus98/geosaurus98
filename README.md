@@ -11,7 +11,6 @@
 - 🌱 **Currently learning:** Advanced VHDL, microcontroller programming (Teensy & STM32), and AI-driven game design.  
 - 💞️ **Looking to collaborate on:** Open-source robotics projects, Python tools, and embedded firmware development.  
 - 📫 **How to reach me:** [george.johnson@outlook.co.nz](mailto:george.johnson@outlook.co.nz) or connect on [LinkedIn](https://www.linkedin.com/in/george-johnson-nz).  
-- ⚡ **Fun fact:** I love basketball 🏀 and once designed a robot that could "hunt" metal weights for a RoboCup challenge!
 
 ---
 
