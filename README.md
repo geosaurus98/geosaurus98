@@ -18,6 +18,8 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-VHDL-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Embedded%20Systems-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -28,11 +30,15 @@
 ---
 
 ### 🚀 Featured Projects
+- [**FaultFlow**](https://github.com/geosaurus98/FaultFlow) – A TypeScript project for tracking and visualizing faults/issues.
+- [**Portfolio**](https://github.com/geosaurus98/portfolio) – My personal developer portfolio site, built with TypeScript.
 - [**RoboCup**](https://github.com/geosaurus98/RoboCup) – A tracked robot using inductive sensors & electromagnets to detect and collect metal weights.
-- [**Step Counter (ENCE361)**](https://github.com/geosaurus98/step-counter) – Embedded firmware for motion tracking using accelerometer filtering and step detection.
-- [**Wordle Solver**](https://github.com/geosaurus98/wordle-solver) – An advanced Python tool for solving Wordle puzzles with multiple modes and benchmarking.
-- [**VHDL Reaction Timer**](https://github.com/geosaurus98/vhdl-reaction-timer) – FPGA-based reaction time measurement system using push buttons and configurable averaging.
-- [**Battleship-UCFK4**](https://github.com/geosaurus98/battleship-ucfk4) – A Battleship game implemented in C for the UC Funkit board.
+- [**Step Counter (ENCE361)**](https://github.com/geosaurus98/Step-Counter) – Embedded firmware for motion tracking using accelerometer filtering and step detection.
+- [**Wordle Solver**](https://github.com/geosaurus98/Wordle-Solver) – An advanced Python tool for solving Wordle puzzles with multiple modes and benchmarking.
+- [**VHDL Reaction Timer**](https://github.com/geosaurus98/VHDL-Reaction-Timer) – FPGA-based reaction time measurement system on the Digilent Nexys-4 DDR, using push buttons and configurable averaging.
+- [**Elevator Project**](https://github.com/geosaurus98/Elevator-Project) – A control systems project simulating and controlling elevator logic.
+- [**Battleship-UCFK4**](https://github.com/geosaurus98/battleship-UCFK4) – A Battleship game implemented in C for the UC Funkit board.
+- [**Card Games**](https://github.com/geosaurus98/Card-Games) – A collection of card game implementations in Python.
 
 
 ---
