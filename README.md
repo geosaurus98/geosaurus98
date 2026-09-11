@@ -1,15 +1,15 @@
 <!-- Banner -->
 <h1 align="center">Hi there, I'm George 👋 (@geosaurus98)</h1>
 <p align="center">
-  <em>Robotics & Embedded Systems Enthusiast | FPGA Explorer | Control Systems Nerd</em>
+  <em>Robotics & Embedded Systems Enthusiast | FPGA Explorer | Control Systems Nerd | Dabbling in Web Dev</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 👀 **Interests:** Robotics, embedded systems, FPGA design, and control systems.  
-- 🌱 **Currently learning:** Advanced VHDL, microcontroller programming (Teensy & STM32), and AI-driven game design.  
-- 💞️ **Looking to collaborate on:** Open-source robotics projects, Python tools, and embedded firmware development.  
+- 👀 **Interests:** Robotics, embedded systems, FPGA design, control systems, and building web tools with TypeScript.  
+- 🌱 **Currently learning:** Advanced VHDL, microcontroller programming (Teensy & STM32), and full-stack development with TypeScript.  
+- 💞️ **Looking to collaborate on:** Open-source robotics projects, Python tools, embedded firmware development, and web-based utilities.  
 - 📫 **How to reach me:** [george.johnson@outlook.co.nz](mailto:george.johnson@outlook.co.nz) or connect on [LinkedIn](https://www.linkedin.com/in/george-johnson-nz).  
 
 ---
