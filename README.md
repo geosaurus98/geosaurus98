@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/geosaurus98/portfolio">Engineering portfolio source</a> ·
+  <a href="https://george-johnson.vercel.app/">Portfolio website</a> ·
   <a href="https://www.linkedin.com/in/george-johnson-nz">LinkedIn</a> ·
   <a href="mailto:george.johnson@outlook.co.nz">Email</a>
 </p>
@@ -73,4 +73,4 @@ A Battleship game written in C for the UC Funkit board, bringing game logic to a
 
 Interested in robotics, firmware, or a practical engineering project? I'd be happy to connect.
 
-[LinkedIn](https://www.linkedin.com/in/george-johnson-nz) · [george.johnson@outlook.co.nz](mailto:george.johnson@outlook.co.nz)
+[Portfolio](https://george-johnson.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/george-johnson-nz) · [george.johnson@outlook.co.nz](mailto:george.johnson@outlook.co.nz)
