@@ -19,6 +19,7 @@ I'm a mechatronics engineering student based in Christchurch, New Zealand. I enj
 - **My focus:** Embedded C/C++, robotics, digital logic, and control systems.
 - **Hands-on experience:** STM32 and Teensy firmware, sensor integration, state machines, PID control, and FPGA development in VHDL.
 - **Beyond microcontrollers:** Embedded Linux development with C and Python, hardware interfaces, and system integration.
+- **Currently building:** A [LoRa farm weather station](https://github.com/geosaurus98/farm-weather-station): a low-power STM32 node with a Python logging gateway.
 - **Currently exploring:** Firmware architecture, automated testing, and practical Python tools.
 - **Open to collaborating on:** Robotics projects, embedded firmware, and useful software tools.
 
